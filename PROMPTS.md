@@ -61,3 +61,19 @@ Add initial project structure with Makefile, .gitignore, and basic classes
 "
 
 - writing this to push and raise a PR
+
+
+## Part E
+
+- prompt: suggest a branch name for this issue:
+"there is no authorization for data, user and admin page are publicaly accesible, implement it"
+
+response: "feat/implement-user-admin-authorization"
+
+- It is a good suggestion, I would have personally like "auth/user-admin-autorization"
+
+
+### summary
+- AI is understanding my intent most of the times, sometimes(branch name) it is not asking for preference or my personal opinion.
+
+- github repo link: 
