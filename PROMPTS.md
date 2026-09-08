@@ -48,3 +48,14 @@ public Order getOrderById(long id) {
 
 
 ## Part D
+- auto enerated commit message
+"
+Add initial project structure with Makefile, .gitignore, and basic classes
+
+- Created .gitignore to exclude build artifacts and libraries.
+- Added Makefile for build automation, including dependencies and test commands.
+- Implemented OrderController and User classes with basic functionality.
+- Introduced UserDTO for data transfer and mapping from User.
+- Added tests for OrderController to ensure functionality.
+- Updated README with project setup instructions.
+"
